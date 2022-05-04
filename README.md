@@ -1,4 +1,13 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hi,%20I'm%20chiyong&fontSize=45)
+
+
+**Who I am ?**
+
+- 🔭 Notion : https://chiyongs.notion.site/bd12dcdf1f9148e186b2f2bef7c49e6f
+- 💬 E-mail : spy03128@gmail.com
+<!-- - 😄 Pronouns: ...
+- ⚡ Fun fact: ... 
+ -->
 
 <!--
 **chiyongs/chiyongs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +25,5 @@ Here are some ideas to get you started:
 -->
 ![chiyongs's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyongs&show_icons=true&theme=dracula)   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chiyongs)](https://solved.ac/chiyongs/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiyongs)](https://github.com/chiyongs/github-readme-stats)
