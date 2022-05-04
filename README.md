@@ -4,7 +4,7 @@
 **Who I am ?**
 
 - 🔭 Notion : https://chiyongs.notion.site/bd12dcdf1f9148e186b2f2bef7c49e6f
-- 💬 E-mail : spy03128@gmail.com
+- 💬 E-mail : tlscldyd@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
  -->
