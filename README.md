@@ -23,5 +23,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![chiyongs's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyongs&show_icons=true&theme=dracula)   
+
+
+- 💻 My Tech Skills: <br />
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-6DA55F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring-Boot](https://img.shields.io/badge/springboot-6DA55F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/jpa-6DA55F.svg?style=for-the-badge&logo=springdatajpa&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%230769AD.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-%23000000.svg?style=for-the-badge&logo=Github&logoColor=white)
+
+![chiyongs's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyongs&show_icons=true&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chiyongs)](https://solved.ac/chiyongs/)
