@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hi,%20I'm%20chiyong&fontSize=45)
 
 
-**Who I am ?**
+### Chiyongs
 
 - 🔭 Notion : https://chiyongs.notion.site/bd12dcdf1f9148e186b2f2bef7c49e6f
 - 💬 E-mail : tlscldyd@gmail.com
@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-- 💻 My Tech Skills: <br />
+---
+### 💻 Tech Stack: <br />
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-6DA55F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring-Boot](https://img.shields.io/badge/springboot-6DA55F.svg?style=for-the-badge&logo=springboot&logoColor=white)
@@ -34,6 +33,10 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-%23000000.svg?style=for-the-badge&logo=Github&logoColor=white)
+
+---
+### 🎈Experiences
+- 삼성 청년 SW 아카데미(SSAFY) 7기 (2022.01~)
 
 ![chiyongs's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyongs&show_icons=true&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chiyongs)](https://solved.ac/chiyongs/)
