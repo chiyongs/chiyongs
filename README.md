@@ -38,5 +38,4 @@ Here are some ideas to get you started:
 ### 🎈Experiences
 - 삼성 청년 SW 아카데미(SSAFY) 7기 (2022.01~)
 
-![chiyongs's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyongs&show_icons=true&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chiyongs)](https://solved.ac/chiyongs/)
