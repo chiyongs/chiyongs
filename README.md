@@ -3,7 +3,7 @@
 
 ### Chiyongs
 
-- 🔭 Notion : https://chiyongs.notion.site/bd12dcdf1f9148e186b2f2bef7c49e6f
+- 🔭 Notion : [About Chiyongs](https://chiyongs.notion.site/bd12dcdf1f9148e186b2f2bef7c49e6f)
 - 💬 E-mail : tlscldyd@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
