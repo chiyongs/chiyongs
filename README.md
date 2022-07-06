@@ -1,11 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hi,%20I'm%20chiyong&fontSize=45)
 
 
-### Chiyongs
+## Chiyong Shin
 
+### Contact
+- 💬 E-mail : tlscldyd@gmail.com
+
+### Channel
 - 🔭 Notion : [About Chiyongs](https://chiyongs.notion.site/bd12dcdf1f9148e186b2f2bef7c49e6f)
 - 📝 Blog : https://velog.io/@chiyongs
-- 💬 E-mail : tlscldyd@gmail.com
+
+- [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chiyongs)](https://solved.ac/chiyongs)
+
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=chiyongs)](https://velog.io/@chiyongs) -->
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chiyongs)](https://github.com/chiyongs/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chiyongs&tag=acid)](https://github.com/chiyongs/velog-readme-stats)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
  -->
@@ -39,5 +50,4 @@ Here are some ideas to get you started:
 ### 🎈Experiences
 - 삼성 청년 SW 아카데미(SSAFY) 7기 (2022.01~)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chiyongs)](https://solved.ac/chiyongs/)
 ![chiyongs's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyongs&show_icons=true&theme=dracula)
