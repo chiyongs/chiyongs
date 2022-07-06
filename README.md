@@ -10,8 +10,6 @@
 - 🔭 Notion : [About Chiyongs](https://chiyongs.notion.site/bd12dcdf1f9148e186b2f2bef7c49e6f)
 - 📝 Blog : https://velog.io/@chiyongs
 
-- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chiyongs)](https://solved.ac/chiyongs)
 
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=chiyongs)](https://velog.io/@chiyongs) -->
 
@@ -49,5 +47,9 @@ Here are some ideas to get you started:
 ---
 ### 🎈Experiences
 - 삼성 청년 SW 아카데미(SSAFY) 7기 (2022.01~)
+
+---
+<!-- [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chiyongs)](https://solved.ac/chiyongs) -->
 
 ![chiyongs's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyongs&show_icons=true&theme=dracula)
