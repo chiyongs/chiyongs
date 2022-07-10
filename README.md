@@ -13,7 +13,7 @@
 
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=chiyongs)](https://velog.io/@chiyongs) -->
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chiyongs)](https://velog.io/@chiyongs/JPA-JPA%EC%9D%98-UPDATE%EB%B0%A9%EC%8B%9D%EA%B3%BC-Dirty-Checking)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chiyongs)](https://velog.io/@chiyongs)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chiyongs&tag=acid)](https://velog.io/@chiyongs/Transaction-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
