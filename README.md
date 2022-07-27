@@ -7,7 +7,7 @@
 - 💬 E-mail : tlscldyd@gmail.com
 
 ### Channel
-- 🔭 Notion : [About Chiyongs](https://chiyongs.notion.site/bd12dcdf1f9148e186b2f2bef7c49e6f)
+- 🔭 Notion : [About Chiyongs](https://chiyongs.notion.site/Hello-I-m-Chiyongs-bd12dcdf1f9148e186b2f2bef7c49e6f)
 - 📝 Blog : https://velog.io/@chiyongs
 
 
