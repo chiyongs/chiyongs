@@ -55,6 +55,12 @@ Here are some ideas to get you started:
 ![Github](https://img.shields.io/badge/Github-%23000000.svg?style=for-the-badge&logo=Github&logoColor=white)
 
 ---
+### 😎 Interested In ...
+![AWS](https://img.shields.io/badge/AWS-%23E34F26.svg?style=for-the-badge&logo=AWS&logoColor=white)
+
+
+
+---
 ### 🎈Experiences
 - 삼성 청년 SW 아카데미(SSAFY) 7기 (2022.01~)
 
