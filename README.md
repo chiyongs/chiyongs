@@ -11,6 +11,8 @@
 - 📝 Blog : https://velog.io/@chiyongs
 
 ### 📚 Recent posts
+2022-08-06 [[GitHub] Issue Template으로 시간 절약하자](https://velog.io/@chiyongs/GitHub-Issue-Template%EC%9C%BC%EB%A1%9C-%EC%8B%9C%EA%B0%84-%EC%A0%88%EC%95%BD%ED%95%98%EC%9E%90)
+<br>
 2022-07-26 [[AWS] Permissions 0644 for '~' are too open.](https://velog.io/@chiyongs/AWS-Permissions-0644-for-are-too-open)
 <br>
 2022-07-14 [[Spring] Deprecated된 WebSecurityConfigurerAdapter 이젠 안녕..](https://velog.io/@chiyongs/Spring-deprecated%EB%90%9C-WebSecurityConfigurerAdapter-%EC%9D%B4%EC%A0%A0-%EC%95%88%EB%85%95)
@@ -19,7 +21,6 @@
 <br>
 2022-07-05 [[JPA] JPA의 UPDATE방식과 Dirty Checking](https://velog.io/@chiyongs/JPA-JPA%EC%9D%98-UPDATE%EB%B0%A9%EC%8B%9D%EA%B3%BC-Dirty-Checking)
 <br>
-2022-07-04 [[면접질문] Java VS C++](https://velog.io/@chiyongs/Java-VS-C)
 
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=chiyongs)](https://velog.io/@chiyongs) -->
 
