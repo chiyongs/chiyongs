@@ -61,7 +61,8 @@ Here are some ideas to get you started:
 - Nginx를 사용한 Load Balancing
 - AWS
 - Docker
-- Jenkins
+- Jenkins CI/CD
+- Kafka
 
 ---
 ### 🎈Experiences
