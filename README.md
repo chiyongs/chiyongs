@@ -57,8 +57,7 @@ Here are some ideas to get you started:
 
 ---
 ### 😎 Interested In ...
-- Nginx를 사용한 Reverse Proxy
-- Nginx를 사용한 Load Balancing
+- Nginx를 사용한 Load Balancing & Reverse Proxy
 - AWS
 - Docker
 - Jenkins
