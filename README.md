@@ -7,7 +7,7 @@
 - 💬 E-mail : tlscldyd@gmail.com
 
 ### Channel
-- 🔭 Notion : [About Chiyongs](https://chiyongs.notion.site/Hello-I-m-Chiyongs-bd12dcdf1f9148e186b2f2bef7c49e6f)
+- 🔭 Notion(Portfolio) : [About Chiyongs](https://chiyongs.notion.site/Hello-I-m-Chiyongs-bd12dcdf1f9148e186b2f2bef7c49e6f)
 - 📝 Blog : https://velog.io/@chiyongs
 
 ### 📚 Recent posts
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ---
 ### 🎈Experiences
-- 삼성 청년 SW 아카데미(SSAFY) 7기 (2022.01~)
+- 삼성 청년 SW 아카데미(SSAFY) 7기 (2022.01.05~ 2022.10.31)
 
 ---
 <!-- [![Solved.ac
