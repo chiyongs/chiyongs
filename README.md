@@ -11,6 +11,8 @@
 - 📝 Blog : https://velog.io/@chiyongs
 
 ### 📚 Recent posts
+2022-11-10 [우당탕탕 CI/CD](https://velog.io/@chiyongs/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-CICD-%EA%B0%9C%EC%84%A0%EA%B8%B0)
+<br>
 2022-09-21 [게시글 임시 저장 기능을 구현하면서...](https://velog.io/@chiyongs/%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%9E%84%EC%8B%9C-%EC%A0%80%EC%9E%A5-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%98%EB%A9%B4%EC%84%9C)
 <br>
 2022-09-16 [[Nginx] Nginx와 CertBot으로 간단하게 Https 환경 구축하기](https://velog.io/@chiyongs/Nginx-Nginx%EC%99%80-CertBot%EC%9C%BC%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-Https-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
@@ -26,7 +28,7 @@
 
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=chiyongs)](https://velog.io/@chiyongs) -->
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chiyongs)](https://velog.io/@chiyongs)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chiyongs&tag=회고)]([https://velog.io/@chiyongs](https://velog.io/@chiyongs/%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%9E%84%EC%8B%9C-%EC%A0%80%EC%9E%A5-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%98%EB%A9%B4%EC%84%9C))
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chiyongs&tag=transaction)](https://velog.io/@chiyongs/Transaction-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0)
 ![게시글 임시 저장 구글 검색](https://user-images.githubusercontent.com/66486860/197211616-034f83c4-d576-4f5c-a510-062cf58dc4aa.png)
 <!-- - 😄 Pronouns: ...
