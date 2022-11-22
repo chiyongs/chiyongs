@@ -62,18 +62,16 @@ Here are some ideas to get you started:
 
 
 ---
-### 😎 Interested In ...
+<!-- ### 😎 Interested In ...
 - Spring Cloud & MSA
 - Nginx를 사용한 Load Balancing & Reverse Proxy
 - AWS
 - Docker
 - Jenkins
-- Apache Kafka
+- Apache Kafka -->
 
----
 ### 🎈Experiences
 - 삼성 청년 SW 아카데미(SSAFY) 7기 (2022.01.05~ 2022.10.31)
-
 ---
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chiyongs)](https://solved.ac/chiyongs) -->
