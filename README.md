@@ -11,6 +11,8 @@
 - 📝 Blog : https://velog.io/@chiyongs
 
 ### 📚 Recent posts
+2022-11-29 [뒤돌아보니 빠르게 지나간 시간을 되돌아보며 끄적이는 SSAFY 회고](https://velog.io/@chiyongs/%EB%92%A4%EB%8F%8C%EC%95%84%EB%B3%B4%EB%8B%88-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%A7%80%EB%82%98%EA%B0%84-%EC%8B%9C%EA%B0%84%EC%9D%84-%EB%90%98%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0-%EB%81%84%EC%A0%81%EC%9D%B4%EB%8A%94-SSAFY-%ED%9A%8C%EA%B3%A0)
+<br>
 2022-11-10 [우당탕탕 CI/CD](https://velog.io/@chiyongs/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-CICD-%EA%B0%9C%EC%84%A0%EA%B8%B0)
 <br>
 2022-09-21 [게시글 임시 저장 기능을 구현하면서...](https://velog.io/@chiyongs/%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%9E%84%EC%8B%9C-%EC%A0%80%EC%9E%A5-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%98%EB%A9%B4%EC%84%9C)
@@ -19,12 +21,12 @@
 <br>
 2022-08-26 [[Spring Security] 우당탕탕 API 권한 설정](https://velog.io/@chiyongs/Spring-Security-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%95)
 <br>
-2022-08-06 [[GitHub] Issue Template으로 시간 절약하자](https://velog.io/@chiyongs/GitHub-Issue-Template%EC%9C%BC%EB%A1%9C-%EC%8B%9C%EA%B0%84-%EC%A0%88%EC%95%BD%ED%95%98%EC%9E%90)
+<!-- 2022-08-06 [[GitHub] Issue Template으로 시간 절약하자](https://velog.io/@chiyongs/GitHub-Issue-Template%EC%9C%BC%EB%A1%9C-%EC%8B%9C%EA%B0%84-%EC%A0%88%EC%95%BD%ED%95%98%EC%9E%90)
 <br>
 2022-07-26 [[AWS] Permissions 0644 for '~' are too open.](https://velog.io/@chiyongs/AWS-Permissions-0644-for-are-too-open)
 <br>
 2022-07-14 [[Spring] Deprecated된 WebSecurityConfigurerAdapter 이젠 안녕..](https://velog.io/@chiyongs/Spring-deprecated%EB%90%9C-WebSecurityConfigurerAdapter-%EC%9D%B4%EC%A0%A0-%EC%95%88%EB%85%95)
-<br>
+<br> -->
 
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=chiyongs)](https://velog.io/@chiyongs) -->
 
