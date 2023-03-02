@@ -11,6 +11,8 @@
 - 📝 Blog : https://velog.io/@chiyongs
 
 ### 📚 Recent posts
+2023-02-23 [[Oracle]ORA-00911 : 문자가 부적합합니다](https://velog.io/@chiyongs/OracleORA-00911-%EB%AC%B8%EC%9E%90%EA%B0%80-%EB%B6%80%EC%A0%81%ED%95%A9%ED%95%A9%EB%8B%88%EB%8B%A4)
+<br>
 2022-11-29 [뒤돌아보니 빠르게 지나간 시간을 되돌아보며 끄적이는 SSAFY 회고](https://velog.io/@chiyongs/%EB%92%A4%EB%8F%8C%EC%95%84%EB%B3%B4%EB%8B%88-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%A7%80%EB%82%98%EA%B0%84-%EC%8B%9C%EA%B0%84%EC%9D%84-%EB%90%98%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0-%EB%81%84%EC%A0%81%EC%9D%B4%EB%8A%94-SSAFY-%ED%9A%8C%EA%B3%A0)
 <br>
 2022-11-10 [우당탕탕 CI/CD](https://velog.io/@chiyongs/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-CICD-%EA%B0%9C%EC%84%A0%EA%B8%B0)
@@ -19,8 +21,8 @@
 <br>
 2022-09-16 [[Nginx] Nginx와 CertBot으로 간단하게 Https 환경 구축하기](https://velog.io/@chiyongs/Nginx-Nginx%EC%99%80-CertBot%EC%9C%BC%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-Https-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
 <br>
-2022-08-26 [[Spring Security] 우당탕탕 API 권한 설정](https://velog.io/@chiyongs/Spring-Security-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%95)
-<br>
+<!-- 2022-08-26 [[Spring Security] 우당탕탕 API 권한 설정](https://velog.io/@chiyongs/Spring-Security-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%95)
+<br> -->
 <!-- 2022-08-06 [[GitHub] Issue Template으로 시간 절약하자](https://velog.io/@chiyongs/GitHub-Issue-Template%EC%9C%BC%EB%A1%9C-%EC%8B%9C%EA%B0%84-%EC%A0%88%EC%95%BD%ED%95%98%EC%9E%90)
 <br>
 2022-07-26 [[AWS] Permissions 0644 for '~' are too open.](https://velog.io/@chiyongs/AWS-Permissions-0644-for-are-too-open)
