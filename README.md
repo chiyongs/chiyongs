@@ -11,6 +11,8 @@
 - 📝 Blog : https://velog.io/@chiyongs
 
 ### 📚 Recent posts
+2023-03-23 [[CSRF] Cross Site Request Forgery](https://velog.io/@chiyongs/CSRF-Cross-Site-Request-Forgery)
+<br>
 2023-03-22 [[Mybatis] 요소 콘텐츠는 올바른 형식의 문자 데이터 또는 마크업으로 구성되어야 합니다.](https://velog.io/@chiyongs/Mybatis-%EC%9A%94%EC%86%8C-%EC%BD%98%ED%85%90%EC%B8%A0%EB%8A%94-%EC%98%AC%EB%B0%94%EB%A5%B8-%ED%98%95%EC%8B%9D%EC%9D%98-%EB%AC%B8%EC%9E%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%98%90%EB%8A%94-%EB%A7%88%ED%81%AC%EC%97%85%EC%9C%BC%EB%A1%9C-%EA%B5%AC%EC%84%B1%EB%90%98%EC%96%B4%EC%95%BC-%ED%95%A9%EB%8B%88%EB%8B%A4)
 <br>
 2023-02-23 [[Oracle]ORA-00911 : 문자가 부적합합니다](https://velog.io/@chiyongs/OracleORA-00911-%EB%AC%B8%EC%9E%90%EA%B0%80-%EB%B6%80%EC%A0%81%ED%95%A9%ED%95%A9%EB%8B%88%EB%8B%A4)
@@ -21,7 +23,7 @@
 <br>
 2022-09-21 [게시글 임시 저장 기능을 구현하면서...](https://velog.io/@chiyongs/%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%9E%84%EC%8B%9C-%EC%A0%80%EC%9E%A5-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%98%EB%A9%B4%EC%84%9C)
 <br>
-2022-09-16 [[Nginx] Nginx와 CertBot으로 간단하게 Https 환경 구축하기](https://velog.io/@chiyongs/Nginx-Nginx%EC%99%80-CertBot%EC%9C%BC%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-Https-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
+<!-- 2022-09-16 [[Nginx] Nginx와 CertBot으로 간단하게 Https 환경 구축하기](https://velog.io/@chiyongs/Nginx-Nginx%EC%99%80-CertBot%EC%9C%BC%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-Https-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0) -->
 <br>
 <!-- 2022-08-26 [[Spring Security] 우당탕탕 API 권한 설정](https://velog.io/@chiyongs/Spring-Security-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%95)
 <br> -->
