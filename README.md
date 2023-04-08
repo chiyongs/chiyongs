@@ -11,6 +11,8 @@
 - 📝 Blog : https://velog.io/@chiyongs
 
 ### 📚 Recent posts
+2023-04-08 [[JPA] Entity Field Wrapper class or Primitive type](https://velog.io/@chiyongs/JPA-Entity-Wrapper-class-or-Primitive-type)
+<br>
 2023-03-23 [[CSRF] Cross Site Request Forgery](https://velog.io/@chiyongs/CSRF-Cross-Site-Request-Forgery)
 <br>
 2023-03-22 [[Mybatis] 요소 콘텐츠는 올바른 형식의 문자 데이터 또는 마크업으로 구성되어야 합니다.](https://velog.io/@chiyongs/Mybatis-%EC%9A%94%EC%86%8C-%EC%BD%98%ED%85%90%EC%B8%A0%EB%8A%94-%EC%98%AC%EB%B0%94%EB%A5%B8-%ED%98%95%EC%8B%9D%EC%9D%98-%EB%AC%B8%EC%9E%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%98%90%EB%8A%94-%EB%A7%88%ED%81%AC%EC%97%85%EC%9C%BC%EB%A1%9C-%EA%B5%AC%EC%84%B1%EB%90%98%EC%96%B4%EC%95%BC-%ED%95%A9%EB%8B%88%EB%8B%A4)
