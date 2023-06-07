@@ -26,7 +26,6 @@
 2022-09-21 [게시글 임시 저장 기능을 구현하면서...](https://velog.io/@chiyongs/%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%9E%84%EC%8B%9C-%EC%A0%80%EC%9E%A5-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%98%EB%A9%B4%EC%84%9C)
 <br>
 <!-- 2022-09-16 [[Nginx] Nginx와 CertBot으로 간단하게 Https 환경 구축하기](https://velog.io/@chiyongs/Nginx-Nginx%EC%99%80-CertBot%EC%9C%BC%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-Https-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0) -->
-<br>
 <!-- 2022-08-26 [[Spring Security] 우당탕탕 API 권한 설정](https://velog.io/@chiyongs/Spring-Security-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%95)
 <br> -->
 <!-- 2022-08-06 [[GitHub] Issue Template으로 시간 절약하자](https://velog.io/@chiyongs/GitHub-Issue-Template%EC%9C%BC%EB%A1%9C-%EC%8B%9C%EA%B0%84-%EC%A0%88%EC%95%BD%ED%95%98%EC%9E%90)
