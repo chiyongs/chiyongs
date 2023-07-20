@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 ---
+<!--
 ### 💻 Tech Stack: <br />
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-6DA55F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -64,7 +65,7 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-%23000000.svg?style=for-the-badge&logo=Github&logoColor=white)
-
+-->
 
 ---
 <!-- ### 😎 Interested In ...
@@ -83,4 +84,4 @@ Here are some ideas to get you started:
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chiyongs)](https://solved.ac/chiyongs) -->
 
-![chiyongs's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyongs&show_icons=true&theme=dracula)
+<!-- ![chiyongs's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyongs&show_icons=true&theme=dracula) -->
