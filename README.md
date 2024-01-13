@@ -36,8 +36,8 @@
 2022-07-14 [[Spring] Deprecated된 WebSecurityConfigurerAdapter 이젠 안녕..](https://velog.io/@chiyongs/Spring-deprecated%EB%90%9C-WebSecurityConfigurerAdapter-%EC%9D%B4%EC%A0%A0-%EC%95%88%EB%85%95)
 <br> -->
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chiyongs&tag=임시저장)](https://velog.io/@chiyongs/%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%9E%84%EC%8B%9C-%EC%A0%80%EC%9E%A5-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%98%EB%A9%B4%EC%84%9C)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chiyongs&tag=transaction)](https://velog.io/@chiyongs/Transaction-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chiyongs&tag=게시글임시저장)](https://velog.io/@chiyongs/%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%9E%84%EC%8B%9C-%EC%A0%80%EC%9E%A5-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%98%EB%A9%B4%EC%84%9C)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chiyongs&tag=transaction그게뭔데)](https://velog.io/@chiyongs/Transaction-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0)
 ![게시글 임시 저장 구글 검색](https://user-images.githubusercontent.com/66486860/197211616-034f83c4-d576-4f5c-a510-062cf58dc4aa.png)
 
 <!--
