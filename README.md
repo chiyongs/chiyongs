@@ -11,7 +11,7 @@
 - 📝 Blog : https://velog.io/@chiyongs
 
 ### 📚 Recent posts
-2024-02-15 [Composite 디자인 패턴 활용하기](https://velog.io/@chiyongs/Composite-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
+2024-02-15 [Composite 디자인 패턴 활용하기](https://velog.io/@chiyongs/Composite-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)<br>
 2023-07-19 [11번가 인턴의 카탈로그 리뷰 API 개선기](https://11st-tech.github.io/2023/07/19/improve-catalog-review-api/)<br>
 2023-04-08 [[JPA] Entity Field Wrapper class or Primitive type](https://velog.io/@chiyongs/JPA-Entity-Wrapper-class-or-Primitive-type)
 <br>
@@ -37,9 +37,13 @@
 2022-07-14 [[Spring] Deprecated된 WebSecurityConfigurerAdapter 이젠 안녕..](https://velog.io/@chiyongs/Spring-deprecated%EB%90%9C-WebSecurityConfigurerAdapter-%EC%9D%B4%EC%A0%A0-%EC%95%88%EB%85%95)
 <br> -->
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chiyongs&tag=게시글임시저장)](https://velog.io/@chiyongs/%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%9E%84%EC%8B%9C-%EC%A0%80%EC%9E%A5-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%98%EB%A9%B4%EC%84%9C)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chiyongs&tag=transaction그게뭔데)](https://velog.io/@chiyongs/Transaction-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0)
+### Most Liked Posts
 ![게시글 임시 저장 구글 검색](https://user-images.githubusercontent.com/66486860/197211616-034f83c4-d576-4f5c-a510-062cf58dc4aa.png)
+- [게시글 임시 저장 기능을 구현하면서...](https://velog.io/@chiyongs/%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%9E%84%EC%8B%9C-%EC%A0%80%EC%9E%A5-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%98%EB%A9%B4%EC%84%9C)<br>
+- [[DB] Transaction?? 그게 뭔데?](https://velog.io/@chiyongs/Transaction-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0)
+<!--[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chiyongs&tag=composite)](https://velog.io/@chiyongs/%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%9E%84%EC%8B%9C-%EC%A0%80%EC%9E%A5-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%98%EB%A9%B4%EC%84%9C)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chiyongs&tag=transaction그게뭔데)](https://velog.io/@chiyongs/Transaction-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0) -->
+
 
 <!--
 **chiyongs/chiyongs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
