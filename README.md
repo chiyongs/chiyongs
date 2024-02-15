@@ -11,6 +11,7 @@
 - 📝 Blog : https://velog.io/@chiyongs
 
 ### 📚 Recent posts
+2024-02-15 [Composite 디자인 패턴 활용하기](https://velog.io/@chiyongs/Composite-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
 2023-07-19 [11번가 인턴의 카탈로그 리뷰 API 개선기](https://11st-tech.github.io/2023/07/19/improve-catalog-review-api/)<br>
 2023-04-08 [[JPA] Entity Field Wrapper class or Primitive type](https://velog.io/@chiyongs/JPA-Entity-Wrapper-class-or-Primitive-type)
 <br>
