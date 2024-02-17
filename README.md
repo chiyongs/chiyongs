@@ -7,7 +7,7 @@
 - 💬 E-mail : tlscldyd@gmail.com
 
 ### About Me
-- 🔭 Notion(Portfolio) : [About Chiyongs](https://chiyongs.notion.site/Hello-I-m-Chiyongs-bd12dcdf1f9148e186b2f2bef7c49e6f)
+- 🔭 Notion(Portfolio) : [About Chiyongs](https://chiyongs.notion.site/chiyongs/Chiyongs-359f13b5c2cd48beaf5289088b0972a7)
 - 📝 Blog : https://velog.io/@chiyongs
 
 ### 📚 Recent posts
