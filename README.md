@@ -11,6 +11,7 @@
 - 📝 Blog : https://velog.io/@chiyongs
 
 ### 📚 Recent posts
+2024-02-26 [Spring Boot 3.x 업그레이드 시 Apache HttpClient 의존성 문제](https://velog.io/@chiyongs/Spring-Boot-3.x-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-%EC%8B%9C-Apache-HttpClient-%EC%9D%98%EC%A1%B4%EC%84%B1-%EB%AC%B8%EC%A0%9C)<br>
 2024-02-15 [Composite 디자인 패턴 활용하기](https://velog.io/@chiyongs/Composite-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)<br>
 2023-07-19 [11번가 인턴의 카탈로그 리뷰 API 개선기](https://11st-tech.github.io/2023/07/19/improve-catalog-review-api/)<br>
 2023-04-08 [[JPA] Entity Field Wrapper class or Primitive type](https://velog.io/@chiyongs/JPA-Entity-Wrapper-class-or-Primitive-type)
