@@ -37,6 +37,7 @@
 <br>
 2022-07-14 [[Spring] Deprecated된 WebSecurityConfigurerAdapter 이젠 안녕..](https://velog.io/@chiyongs/Spring-deprecated%EB%90%9C-WebSecurityConfigurerAdapter-%EC%9D%B4%EC%A0%A0-%EC%95%88%EB%85%95)
 <br> -->
+<!-- <a href="https://velog.io/@chiyongs"><img align="left" src="https://velog-readme-stats.vercel.app/api/list?name=chiyongs"/></a> -->
 
 ### Most Liked Posts
 ![게시글 임시 저장 구글 검색](https://user-images.githubusercontent.com/66486860/197211616-034f83c4-d576-4f5c-a510-062cf58dc4aa.png)
