@@ -82,9 +82,10 @@ Here are some ideas to get you started:
 - Apache Kafka -->
 
 ### 🎈Experiences
-- 11번가 PDP개발팀 (2023.01.02 ~ 현재)
-- 2022 11 Super Talent 인턴 (2022.11.17 ~ 2022.12.22)
-- 삼성 청년 SW 아카데미(SSAFY) 7기 (2022.01.05 ~ 2022.10.31)
+- 여기어때컴퍼니 주문결제개발팀 (2024.08 ~ 현재)
+- 11번가 PDP개발팀 (2023.01 ~ 2024.08)
+- 2022 11 Super Talent 인턴 (2022.11 ~ 2022.12)
+- 삼성 청년 SW 아카데미(SSAFY) 7기 (2022.01 ~ 2022.10)
 ---
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chiyongs)](https://solved.ac/chiyongs) -->
